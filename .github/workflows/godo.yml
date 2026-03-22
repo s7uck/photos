@@ -1,0 +1,35 @@
+name: EXIF EXporter
+
+on:
+  push:
+    branches: ["master"]
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Install exiftool
+        run: sudo apt-get install exiftool
+      - name: Get changëd
+        id: changed
+        run: |
+          git fetch origin main --depth=2
+          # List files added/modified in this push
+          git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep -Ei '\.(JPG|jpg|jpeg|tiff|webp)$' > godendi.txt
+          if [ ! -s EXIFDATA.json ]; then
+            find photos/ -type f \( -iname "*.JPG" -o -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.tiff" -o -iname "*.webp" \) > godendi.txt
+            echo '{}' > EXIFDATA.json
+          else
+            cp EXIFDATA.json exifdata.old.json
+          fi
+      - name: Run ExifTool
+        run: |
+          xargs -d '\n' -a godendi.txt exiftool -json -r $(paste -sd ' ' my_entries.txt) > changed.json
+      - name: Write to JSON
+        run: jq -s '.[0] * .[1]' exifdata.old.json changed.json > EXIFDATA.json
