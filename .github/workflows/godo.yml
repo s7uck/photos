@@ -18,10 +18,10 @@ jobs:
         run: sudo apt-get install exiftool
       - name: Run ExifTool
         run: |
-          find photos/ -type f \( -iname "*.JPG" -o -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.tiff" -o -iname "*.webp" \) > godendi.txt
+          find . -type f \( -iname "*.JPG" -o -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.tiff" -o -iname "*.webp" \) > godendi.txt
           xargs -d '\n' -a godendi.txt \
             exiftool -json -r $(paste -sd ' ' my_entries.txt) \
-            | jq 'map({(.SourceFile | sub("^photos/"; "")): .}) | add' \
+            | jq 'map({(.SourceFile | sub("^./"; "")): .}) | add' \
             > EXIFDATA.json
       - name: Commit and push
         uses: EndBug/add-and-commit@v9
