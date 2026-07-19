@@ -269,6 +269,20 @@
     "FocalLength": "24.2 mm",
     "ExposureProgram": "Manual"
   },
+  "2026/02/_1290870_ponte_punta_penna.JPG": {
+    "SourceFile": "./2026/02/_1290870_ponte_punta_penna.JPG",
+    "Title": "",
+    "Landmark": "",
+    "DateTimeOriginal": "2026:02:01 16:45:03",
+    "Location": "",
+    "Make": "Panasonic",
+    "Model": "DC-FZ82",
+    "Aperture": 5.6,
+    "ShutterSpeed": "1/500",
+    "ISO": 80,
+    "FocalLength": "89.5 mm",
+    "ExposureProgram": "Program AE"
+  },
   "2026/02/_1300094_moonbow2.JPG": {
     "SourceFile": "./2026/02/_1300094_moonbow2.JPG",
     "Title": "",
@@ -310,6 +324,78 @@
     "ISO": 80,
     "FocalLength": "35.8 mm",
     "ExposureProgram": "Program AE"
+  },
+  "2026/07/P1310062_the_sunset_horiz.JPG": {
+    "SourceFile": "./2026/07/P1310062_the_sunset_horiz.JPG",
+    "Title": "",
+    "Landmark": "",
+    "DateTimeOriginal": "2026:07:17 20:12:34",
+    "Location": "Grottaglie (TA)",
+    "Make": "Panasonic",
+    "Model": "DC-FZ82",
+    "Aperture": 5.6,
+    "ShutterSpeed": "1/50",
+    "ISO": 80,
+    "FocalLength": "71.7 mm",
+    "Rating": 4,
+    "ExposureProgram": "Program AE"
+  },
+  "2026/07/_1310067_FINAL_01.jpg": {
+    "SourceFile": "./2026/07/_1310067_FINAL_01.jpg",
+    "DateTimeOriginal": "2026:07:17 20:13:46.948",
+    "Location": "Grottaglie (TA)",
+    "Rating": 5
+  },
+  "2026/07/_1310065_FINAL_01.jpg": {
+    "SourceFile": "./2026/07/_1310065_FINAL_01.jpg",
+    "DateTimeOriginal": "2026:07:17 20:13:16.526",
+    "Location": "Grottaglie (TA)",
+    "Rating": 5
+  },
+  "2026/07/_1310066_the_sunset_half.JPG": {
+    "SourceFile": "./2026/07/_1310066_the_sunset_half.JPG",
+    "Title": "",
+    "Landmark": "",
+    "DateTimeOriginal": "2026:07:17 20:13:37",
+    "Location": "Grottaglie (TA)",
+    "Make": "Panasonic",
+    "Model": "DC-FZ82",
+    "Aperture": 8.0,
+    "ShutterSpeed": "1/40",
+    "ISO": 80,
+    "FocalLength": "215.0 mm",
+    "Rating": 4,
+    "ExposureProgram": "Manual"
+  },
+  "2026/07/P1310060_the_sunset.JPG": {
+    "SourceFile": "./2026/07/P1310060_the_sunset.JPG",
+    "Title": "",
+    "Landmark": "",
+    "DateTimeOriginal": "2026:07:17 20:12:20",
+    "Location": "Grottaglie (TA)",
+    "Make": "Panasonic",
+    "Model": "DC-FZ82",
+    "Aperture": 5.9,
+    "ShutterSpeed": "1/200",
+    "ISO": 80,
+    "FocalLength": "215.0 mm",
+    "Rating": 4,
+    "ExposureProgram": "Program AE"
+  },
+  "2026/07/P1310064.JPG": {
+    "SourceFile": "./2026/07/P1310064.JPG",
+    "Title": "",
+    "Landmark": "",
+    "DateTimeOriginal": "2026:07:17 20:13:08",
+    "Location": "Grottaglie (TA)",
+    "Make": "Panasonic",
+    "Model": "DC-FZ82",
+    "Aperture": 8.0,
+    "ShutterSpeed": "1/40",
+    "ISO": 80,
+    "FocalLength": "71.7 mm",
+    "Rating": 4,
+    "ExposureProgram": "Manual"
   },
   "2025/01/_1260681_bari.JPG": {
     "SourceFile": "./2025/01/_1260681_bari.JPG",
@@ -862,6 +948,7 @@
   },
   "2025/06/airshow-mpv-shot0003.jpg": {
     "SourceFile": "./2025/06/airshow-mpv-shot0003.jpg",
+    "DateTimeOriginal": "2025:06:08 11:30:00",
     "Location": "Aeroporto di Grottaglie (TAR)"
   },
   "2025/06/P1270192_distant_boat_3.JPG": {
@@ -894,10 +981,7 @@
   },
   "2025/06/airshow-ampv-shot0001.jpg": {
     "SourceFile": "./2025/06/airshow-ampv-shot0001.jpg",
-    "Location": "Aeroporto di Grottaglie (TAR)"
-  },
-  "2025/06/airshow-mpv-shot0004.jpg": {
-    "SourceFile": "./2025/06/airshow-mpv-shot0004.jpg",
+    "DateTimeOriginal": "2025:06:08 11:30:00",
     "Location": "Aeroporto di Grottaglie (TAR)"
   },
   "2025/06/_1270175_distant_boat.JPG": {
@@ -928,12 +1012,9 @@
     "FocalLength": "215.0 mm",
     "ExposureProgram": "Manual"
   },
-  "2025/06/airshow-mpv-shot0001.jpg": {
-    "SourceFile": "./2025/06/airshow-mpv-shot0001.jpg",
-    "Location": "Aeroporto di Grottaglie (TAR)"
-  },
   "2025/06/airshow-mpv-shot0002.jpg": {
     "SourceFile": "./2025/06/airshow-mpv-shot0002.jpg",
+    "DateTimeOriginal": "2025:06:08 11:30:00",
     "Location": "Aeroporto di Grottaglie (TAR)"
   },
   "2025/02/_1260755_view.JPG": {
@@ -1971,6 +2052,20 @@
     "FocalLength": "24.2 mm",
     "ExposureProgram": "Program AE"
   },
+  "2025/09/_1270717_palazzine.JPG": {
+    "SourceFile": "./2025/09/_1270717_palazzine.JPG",
+    "Title": "",
+    "Landmark": "",
+    "DateTimeOriginal": "2025:09:01 18:54:20",
+    "Location": "",
+    "Make": "Panasonic",
+    "Model": "DC-FZ82",
+    "Aperture": 5.5,
+    "ShutterSpeed": "1/250",
+    "ISO": 80,
+    "FocalLength": "44.8 mm",
+    "ExposureProgram": "Program AE"
+  },
   "2025/09/P1280272_downhill4.JPG": {
     "SourceFile": "./2025/09/P1280272_downhill4.JPG",
     "Title": "",
@@ -2029,23 +2124,25 @@
   },
   "2025/04/planespot-mpv-shot0001.jpg": {
     "SourceFile": "./2025/04/planespot-mpv-shot0001.jpg",
+    "DateTimeOriginal": "2025:04:19 13:45:00",
     "Location": "Aeroporto di Grottaglie (TAR)"
   },
   "2025/04/planespot-mpv-shot0006.jpg": {
-    "SourceFile": "./2025/04/planespot-mpv-shot0006.jpg"
+    "SourceFile": "./2025/04/planespot-mpv-shot0006.jpg",
+    "DateTimeOriginal": "2025:04:19 13:45:00"
   },
   "2025/04/planespot-mpv-shot0003.jpg": {
     "SourceFile": "./2025/04/planespot-mpv-shot0003.jpg",
+    "DateTimeOriginal": "2025:04:19 13:45:00",
     "Location": "Aeroporto di Grottaglie (TAR)"
   },
   "2025/04/planespot-mpv-shot0008.jpg": {
-    "SourceFile": "./2025/04/planespot-mpv-shot0008.jpg"
-  },
-  "2025/04/planespot-mpv-shot0010.jpg": {
-    "SourceFile": "./2025/04/planespot-mpv-shot0010.jpg"
+    "SourceFile": "./2025/04/planespot-mpv-shot0008.jpg",
+    "DateTimeOriginal": "2025:04:19 13:45:00"
   },
   "2025/04/planespot-mpv-shot0009.jpg": {
     "SourceFile": "./2025/04/planespot-mpv-shot0009.jpg",
+    "DateTimeOriginal": "2025:04:19 13:45:00",
     "Location": "Aeroporto di Grottaglie (TAR)"
   },
   "2024/01/_1230140_bird4.JPG": {
@@ -3977,36 +4074,6 @@
     "Rating": 5,
     "ExposureProgram": "Manual"
   },
-  "2024/04/_1240539_vivid_sunset_2.jpg": {
-    "SourceFile": "./2024/04/_1240539_vivid_sunset_2.jpg",
-    "Title": "",
-    "Landmark": "",
-    "DateTimeOriginal": "2024:04:14 18:23:30",
-    "Location": "Torre Colimena, TA",
-    "Make": "Panasonic",
-    "Model": "DC-FZ82",
-    "Aperture": 5.6,
-    "ShutterSpeed": "1/40",
-    "ISO": 80,
-    "FocalLength": "6.2 mm",
-    "Rating": 5,
-    "ExposureProgram": "Manual"
-  },
-  "2024/04/_1240680_hilltop_sunrise.jpg": {
-    "SourceFile": "./2024/04/_1240680_hilltop_sunrise.jpg",
-    "Title": "",
-    "Landmark": "",
-    "DateTimeOriginal": "2024:04:25 05:11:53",
-    "Location": "Ostuni, BR",
-    "Make": "Panasonic",
-    "Model": "DC-FZ82",
-    "Aperture": 5.6,
-    "ShutterSpeed": "1/100",
-    "ISO": 80,
-    "FocalLength": "12.5 mm",
-    "Rating": 3,
-    "ExposureProgram": "Manual"
-  },
   "2024/04/P1240700_streetlamps.JPG": {
     "SourceFile": "./2024/04/P1240700_streetlamps.JPG",
     "Title": "",
@@ -4065,24 +4132,6 @@
     "Rating": 5,
     "ExposureProgram": "Manual"
   },
-  "2024/04/P1240562_FINAL.jpg": {
-    "SourceFile": "./2024/04/P1240562_FINAL.jpg"
-  },
-  "2024/04/_1240538_vivid_sunset.jpg": {
-    "SourceFile": "./2024/04/_1240538_vivid_sunset.jpg",
-    "Title": "",
-    "Landmark": "",
-    "DateTimeOriginal": "2024:04:14 18:23:23",
-    "Location": "Torre Colimena, TA",
-    "Make": "Panasonic",
-    "Model": "DC-FZ82",
-    "Aperture": 5.6,
-    "ShutterSpeed": "1/50",
-    "ISO": 80,
-    "FocalLength": "6.2 mm",
-    "Rating": 5,
-    "ExposureProgram": "Manual"
-  },
   "2024/04/P1240705_vivid_sunrise.jpg": {
     "SourceFile": "./2024/04/P1240705_vivid_sunrise.jpg",
     "Title": "",
@@ -4111,9 +4160,6 @@
     "FocalLength": "24.2 mm",
     "Rating": 4,
     "ExposureProgram": "Manual"
-  },
-  "2024/04/_1240351_FINAL.jpg": {
-    "SourceFile": "./2024/04/_1240351_FINAL.jpg"
   },
   "2024/04/_1240343_sea_at_sunset.jpg": {
     "SourceFile": "./2024/04/_1240343_sea_at_sunset.jpg",
@@ -4248,35 +4294,6 @@
     "Rating": 5,
     "ExposureProgram": "Manual"
   },
-  "2024/04/P1240580_vivid_sunset_6.jpg": {
-    "SourceFile": "./2024/04/P1240580_vivid_sunset_6.jpg",
-    "Title": "",
-    "Landmark": "",
-    "DateTimeOriginal": "2024:04:14 18:28:47",
-    "Location": "Torre Colimena, TA",
-    "Make": "Panasonic",
-    "Model": "DC-FZ82",
-    "Aperture": 3.4,
-    "ShutterSpeed": "1/200",
-    "ISO": 320,
-    "FocalLength": "6.2 mm",
-    "ExposureProgram": "Program AE"
-  },
-  "2024/04/_1240541_vivid_sunset_3.jpg": {
-    "SourceFile": "./2024/04/_1240541_vivid_sunset_3.jpg",
-    "Title": "",
-    "Landmark": "",
-    "DateTimeOriginal": "2024:04:14 18:23:44",
-    "Location": "Torre Colimena, TA",
-    "Make": "Panasonic",
-    "Model": "DC-FZ82",
-    "Aperture": 5.6,
-    "ShutterSpeed": "1/80",
-    "ISO": 100,
-    "FocalLength": "6.2 mm",
-    "Rating": 4,
-    "ExposureProgram": "Manual"
-  },
   "2024/04/P1240783_firey_sky_2.jpg": {
     "SourceFile": "./2024/04/P1240783_firey_sky_2.jpg",
     "Title": "",
@@ -4306,21 +4323,6 @@
     "FocalLength": "6.2 mm",
     "Rating": 4,
     "ExposureProgram": "Manual"
-  },
-  "2024/04/P1240560_vivid_sunset_5.jpg": {
-    "SourceFile": "./2024/04/P1240560_vivid_sunset_5.jpg",
-    "Title": "",
-    "Landmark": "",
-    "DateTimeOriginal": "2024:04:14 18:26:48",
-    "Location": "Torre Colimena, TA",
-    "Make": "Panasonic",
-    "Model": "DC-FZ82",
-    "Aperture": 3.2,
-    "ShutterSpeed": "1/320",
-    "ISO": 320,
-    "FocalLength": "5.0 mm",
-    "Rating": 4,
-    "ExposureProgram": "Program AE"
   },
   "2024/04/_1240792_sunset_road.JPG": {
     "SourceFile": "./2024/04/_1240792_sunset_road.JPG",
