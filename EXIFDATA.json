@@ -344,13 +344,23 @@
     "SourceFile": "./2026/07/_1310067_FINAL_01.jpg",
     "DateTimeOriginal": "2026:07:17 20:13:46.948",
     "Location": "Grottaglie (TA)",
-    "Rating": 5
+    "Make": "Panasonic",
+    "Model": "DC-FZ82",
+    "ISO": 80,
+    "FocalLength": "24.2 mm",
+    "Rating": 5,
+    "ExposureProgram": "Manual"
   },
   "2026/07/_1310065_FINAL_01.jpg": {
     "SourceFile": "./2026/07/_1310065_FINAL_01.jpg",
     "DateTimeOriginal": "2026:07:17 20:13:16.526",
     "Location": "Grottaglie (TA)",
-    "Rating": 5
+    "Make": "Panasonic",
+    "Model": "DC-FZ82",
+    "ISO": 80,
+    "FocalLength": "71.7 mm",
+    "Rating": 5,
+    "ExposureProgram": "Manual"
   },
   "2026/07/_1310066_the_sunset_half.JPG": {
     "SourceFile": "./2026/07/_1310066_the_sunset_half.JPG",
