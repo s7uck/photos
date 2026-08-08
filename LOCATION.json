@@ -2,345 +2,198 @@
   "": "",
   "Abate Nicola": {
     "url": "https://www.openstreetmap.org/node/13380814176",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.6192739, 17.5070849]
   },
   "Aeroporto di Brindisi": {
     "url": "www.openstreetmap.org/relation/12857931",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.666424, 17.934245]
   },
   "Aeroporto di Gioia del Colle": {
     "url": "https://www.openstreetmap.org/way/86838955",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.76809, 16.93375]
   },
   "Aeroporto di Grottaglie (TAR)": {
     "url": "https://www.openstreetmap.org/way/86615197",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.51826, 17.39876]
   },
   "Avetrana (TA)": {
     "url": "https://www.openstreetmap.org/relation/40451",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.33710, 17.71407]
   },
   "Avetrana, TA": {
     "url": "https://www.openstreetmap.org/relation/40451",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.33710, 17.71407]
   },
   "Bari": {
     "url": "https://www.openstreetmap.org/relation/41038",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [41.1257843, 16.8620293]
   },
   "Brindisi": {
     "url": "https://www.openstreetmap.org/relation/40545",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.6375408, 17.9454957]
   },
   "Calanchi di Pisticci, MT": {
     "url": "https://www.openstreetmap.org/way/1448713981",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.372243, 16.544558]
   },
   "Campomarino, TA": {
     "url": "https://www.openstreetmap.org/node/300110977",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.2981968, 17.5638698]
   },
   "Ceglie Messapica (BR)": {
     "url": "https://www.openstreetmap.org/node/68528826",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.6469604, 17.5220420]
   },
   "Colli di Ostuni, BR": {
     "url": "https://www.openstreetmap.org/node/12830909579",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.747530, 17.492276]
   },
   "Convento dei Battendieri / Mar Piccolo": {
     "url": "https://www.openstreetmap.org/node/10021635708",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.5006824, 17.3127663]
   },
   "Dune di Campomarino": {
     "url": "https://www.openstreetmap.org/way/311016894",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.2995791, 17.5769360]
   },
   "Grottaglie (TA)": {
     "url": "https://www.openstreetmap.org/node/68529972",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.5361927, 17.4342206]
   },
   "Manduria (TA)": {
     "url": "https://www.openstreetmap.org/node/68530095",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.4065197, 17.6423359]
   },
   "Manduria/Avetrana, TA": {
     "url": "https://www.openstreetmap.org/way/27966206",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.329179, 17.693925]
   },
   "Mar Piccolo": {
     "url": "https://www.openstreetmap.org/node/10021635708",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.5006824, 17.3127663]
   },
   "Mar Piccolo, TA": {
     "url": "https://www.openstreetmap.org/node/10021635708",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.5006824, 17.3127663]
   },
   "Marina di Ostuni, BR": {
     "url": "https://www.openstreetmap.org/node/4403434138",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.8037044, 17.5371105]
   },
   "Martina Franca (TA)": {
     "url": "https://www.openstreetmap.org/node/3398354616",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.67916, 17.25671]
   },
   "Ostuni (BR)": {
     "url": "https://www.openstreetmap.org/node/68528861",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.7342886, 17.5805104]
   },
   "Ostuni, BR": {
     "url": "https://www.openstreetmap.org/node/68528861",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.707168, 17.567065]
   },
   "Piazza della Rotonda, Roma": {
     "url": "https://www.openstreetmap.org/relation/1737642",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [41.8993059, 12.4767503]
   },
   "Pisticci (MT)": {
     "url": "https://www.openstreetmap.org/relation/40436",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.404098, 16.540417]
   },
   "Punta Alice, KR": {
     "url": "https://www.openstreetmap.org/node/85921611",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [39.4006579, 17.1566292]
   },
   "Riva del fiume Chidro": {
     "url": "https://www.openstreetmap.org/way/303769050",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.3048214, 17.6861178]
   },
   "Roma Fiumicino": {
     "url": "https://www.openstreetmap.org/relation/16054538",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [41.7933952, 12.2519445]
   },
   "SC 63": {
     "url": "https://www.openstreetmap.org/way/331998992",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.328535, 17.692520]
   },
   "SP54": {
     "url": "https://www.openstreetmap.org/way/166222171",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.47808, 17.60463]
   },
   "SS407 Basentana": {
     "url": "https://www.openstreetmap.org/way/232075343",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.516370, 16.475332]
   },
   "SS7 Salentina": {
     "url": "https://www.openstreetmap.org/way/170239824",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.40864, 17.72516]
   },
   "Saline di Torre Colimena": {
     "url": "https://www.openstreetmap.org/way/227410268",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.303287, 17.729879]
   },
   "San Pietro in Bevagna": {
     "url": "https://www.openstreetmap.org/node/1889370511",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.3068456, 17.6725073]
   },
   "Soverato (KR)": {
     "url": "https://www.openstreetmap.org/node/6368932264",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [38.6877170, 16.5500442]
   },
   "Specchia Tarantina, TA": {
     "url": "https://www.openstreetmap.org/node/13404354048",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.6198011, 17.4303205]
   },
   "Specchiarica": {
     "url": "https://www.openstreetmap.org/node/13345703941",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.3034985, 17.7155736]
   },
   "Specchiarica, TA": {
     "url": "https://www.openstreetmap.org/node/13345703941",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.3034985, 17.7155736]
   },
   "Spiaggia Pilone": {
     "url": "https://www.openstreetmap.org/way/520574031",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.805580, 17.538928]
   },
   "Spiaggia di S. Pietro in Bevagna": {
     "url": "https://www.openstreetmap.org/way/239732769",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.303725, 17.696085]
   },
   "Strada tra Erchie e Avetrana": {
     "url": "https://www.openstreetmap.org/way/527208956",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.390458, 17.726132]
   },
   "Taranto": {
     "url": "https://www.openstreetmap.org/relation/40452",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.4712427, 17.2432278]
   },
   "Torre Colimena, TA": {
     "url": "https://www.openstreetmap.org/node/4685793364",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.2975499, 17.7449300]
   },
   "Via Chidro di Specchiarica": {
     "url": "https://www.openstreetmap.org/way/176743799",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.3041442, 17.6946512]
   },
   "Via dei Fori Imperiali, Roma": {
     "url": "https://www.openstreetmap.org/way/229538793",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [41.891836, 12.489651]
   },
   "Villa Castelli (BR)": {
     "url": "https://www.openstreetmap.org/node/68528848",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.5845270, 17.4746050]
   },
   "Villanova": {
     "url": "https://www.openstreetmap.org/node/851098032",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.7851170, 17.6009475]
   },
   "Villanova, BR": {
     "url": "https://www.openstreetmap.org/node/4629950599",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.7900255, 17.5857728]
   },
   "via di Ceglie": {
     "url": "https://www.openstreetmap.org/way/470181896",
-    "coordinates": [
-      null,
-      null
-    ]
+    "coordinates": [40.68886, 17.55228]
   }
 }
