@@ -1,1 +1,3 @@
 .directory
+exif-update.sh
+make-locations.sh
