@@ -386,7 +386,7 @@
   "2026/02/_1290870_ponte_punta_penna.JPG": {
     "SourceFile": "./2026/02/_1290870_ponte_punta_penna.JPG",
     "Title": "",
-    "Landmark": "",
+    "Landmark": "Ponte Punta Penna",
     "DateTimeOriginal": "2026:02:01 16:45:03",
     "Location": "Convento dei Battendieri / Mar Piccolo",
     "Make": "Panasonic",
@@ -535,7 +535,7 @@
   "2026/07/P1300961_ppp.JPG": {
     "SourceFile": "./2026/07/P1300961_ppp.JPG",
     "Title": "",
-    "Landmark": "",
+    "Landmark": "Ponte Punta Penna",
     "DateTimeOriginal": "2026:07:12 18:58:25",
     "Location": "Convento dei Battendieri / Mar Piccolo",
     "Make": "Panasonic",
@@ -2468,7 +2468,7 @@
   "2024/10/_1260022_tower.JPG": {
     "SourceFile": "./2024/10/_1260022_tower.JPG",
     "Title": "",
-    "Landmark": "",
+    "Landmark": "Torre Colimena",
     "DateTimeOriginal": "2024:10:21 17:44:32",
     "Location": "Via Chidro di Specchiarica",
     "Make": "Panasonic",
@@ -3043,7 +3043,7 @@
   "2024/11/_1260300_bridge.JPG": {
     "SourceFile": "./2024/11/_1260300_bridge.JPG",
     "Title": "",
-    "Landmark": "",
+    "Landmark": "Viadotto dell'Impero",
     "DateTimeOriginal": "2024:11:16 18:07:14",
     "Location": "Villa Castelli (BR)",
     "Make": "Panasonic",
@@ -3246,7 +3246,7 @@
   "2024/02/_1240093_lighthouse.jpg": {
     "SourceFile": "./2024/02/_1240093_lighthouse.jpg",
     "Title": "",
-    "Landmark": "",
+    "Landmark": "Faro di Punta Alice (KR)",
     "DateTimeOriginal": "2024:02:25 12:41:47",
     "Location": "Punta Alice, KR",
     "Make": "Panasonic",
@@ -3407,7 +3407,7 @@
   "2024/02/_1240095_lighthouse.jpg": {
     "SourceFile": "./2024/02/_1240095_lighthouse.jpg",
     "Title": "",
-    "Landmark": "",
+    "Landmark": "Faro di Punta Alice (KR)",
     "DateTimeOriginal": "2024:02:25 12:41:59",
     "Location": "Punta Alice, KR",
     "Make": "Panasonic",
@@ -3505,8 +3505,22 @@
     "FocalLength": "28.8 mm",
     "ExposureProgram": "Manual"
   },
-  "2024/07/_1250318_boat_sunset.JPG": {
-    "SourceFile": "./2024/07/_1250318_boat_sunset.JPG",
+  "2024/07/_1250320_dock_nighttime_2.JPG": {
+    "SourceFile": "./2024/07/_1250320_dock_nighttime_2.JPG",
+    "Title": "",
+    "Landmark": "",
+    "DateTimeOriginal": "2024:07:21 23:06:13",
+    "Location": "Brindisi",
+    "Make": "Panasonic",
+    "Model": "DC-FZ82",
+    "Aperture": 3.9,
+    "ShutterSpeed": 3.2,
+    "ISO": 80,
+    "FocalLength": "9.0 mm",
+    "ExposureProgram": "Manual"
+  },
+  "2024/07/_1250301_boat_sunset.JPG": {
+    "SourceFile": "./2024/07/_1250301_boat_sunset.JPG",
     "Title": "",
     "Landmark": "",
     "DateTimeOriginal": "2024:07:21 19:51:52",
@@ -3591,22 +3605,38 @@
     "FocalLength": "24.2 mm",
     "ExposureProgram": "Manual"
   },
-  "2024/07/_1250318_dock_nighttime_2.JPG": {
-    "SourceFile": "./2024/07/_1250318_dock_nighttime_2.JPG",
+  "2024/07/_1250318.JPG": {
+    "SourceFile": "./2024/07/_1250318.JPG",
     "Title": "",
     "Landmark": "",
-    "DateTimeOriginal": "2024:07:21 23:06:13",
+    "DateTimeOriginal": "2024:07:21 23:04:50",
     "Location": "Brindisi",
     "Make": "Panasonic",
     "Model": "DC-FZ82",
-    "Aperture": 3.9,
+    "Aperture": 4.3,
     "ShutterSpeed": 3.2,
     "ISO": 80,
-    "FocalLength": "9.0 mm",
+    "FocalLength": "12.5 mm",
+    "Rating": 5,
     "ExposureProgram": "Manual"
   },
-  "2024/07/_1250318_dock_nighttime.JPG": {
-    "SourceFile": "./2024/07/_1250318_dock_nighttime.JPG",
+  "2024/07/_1250272_distant_lighthouse.JPG": {
+    "SourceFile": "./2024/07/_1250272_distant_lighthouse.JPG",
+    "Title": "",
+    "Landmark": "Faro di Torre Canne (BR)",
+    "DateTimeOriginal": "2024:07:20 20:11:23",
+    "Location": "Ostuni (BR)",
+    "Make": "Panasonic",
+    "Model": "DC-FZ82",
+    "Aperture": 7.1,
+    "ShutterSpeed": "1/30",
+    "ISO": 80,
+    "FocalLength": "215.0 mm",
+    "Rating": 4,
+    "ExposureProgram": "Manual"
+  },
+  "2024/07/_1250316_dock_nighttime.JPG": {
+    "SourceFile": "./2024/07/_1250316_dock_nighttime.JPG",
     "Title": "",
     "Landmark": "",
     "DateTimeOriginal": "2024:07:21 23:03:47",
@@ -3617,21 +3647,6 @@
     "ShutterSpeed": 2,
     "ISO": 80,
     "FocalLength": "9.0 mm",
-    "Rating": 4,
-    "ExposureProgram": "Manual"
-  },
-  "2024/07/_1250318_distant_lighthouse.JPG": {
-    "SourceFile": "./2024/07/_1250318_distant_lighthouse.JPG",
-    "Title": "",
-    "Landmark": "",
-    "DateTimeOriginal": "2024:07:20 20:11:23",
-    "Location": "Ostuni (BR)",
-    "Make": "Panasonic",
-    "Model": "DC-FZ82",
-    "Aperture": 7.1,
-    "ShutterSpeed": "1/30",
-    "ISO": 80,
-    "FocalLength": "215.0 mm",
     "Rating": 4,
     "ExposureProgram": "Manual"
   },
@@ -3692,21 +3707,6 @@
     "ISO": 80,
     "FocalLength": "28.8 mm",
     "Rating": 5,
-    "ExposureProgram": "Manual"
-  },
-  "2024/12/_1260540_FINAL.jpg": {
-    "SourceFile": "./2024/12/_1260540_FINAL.jpg",
-    "Title": "",
-    "Landmark": "",
-    "DateTimeOriginal": "2024:12:12 08:34:18",
-    "Location": "Abate Nicola",
-    "Make": "Panasonic",
-    "Model": "DC-FZ82",
-    "Aperture": 5.6,
-    "ShutterSpeed": "1/160",
-    "ISO": 80,
-    "FocalLength": "28.8 mm",
-    "Rating": 4,
     "ExposureProgram": "Manual"
   },
   "2024/12/_1260536.JPG": {
@@ -3986,7 +3986,7 @@
   "2024/08/P1250551_starry_sky_beach_2.JPG": {
     "SourceFile": "./2024/08/P1250551_starry_sky_beach_2.JPG",
     "Title": "",
-    "Landmark": "",
+    "Landmark": "Dune di Campomarino",
     "DateTimeOriginal": "2024:08:15 21:38:18",
     "Location": "Dune di Campomarino",
     "Make": "Panasonic",
@@ -4038,7 +4038,7 @@
   "2024/08/_1250547_starry_sky_beach.JPG": {
     "SourceFile": "./2024/08/_1250547_starry_sky_beach.JPG",
     "Title": "",
-    "Landmark": "",
+    "Landmark": "Dune di Campomarino",
     "DateTimeOriginal": "2024:08:15 21:33:31",
     "Location": "Dune di Campomarino",
     "Make": "Panasonic",
@@ -5361,7 +5361,7 @@
   "2022/01/P1200447_sunlit_hills_2.JPG": {
     "SourceFile": "./2022/01/P1200447_sunlit_hills_2.JPG",
     "Title": "",
-    "Landmark": "",
+    "Landmark": "Teatro dei Calanchi",
     "DateTimeOriginal": "2022:01:05 16:19:36",
     "Location": "Calanchi di Pisticci, MT",
     "Make": "Panasonic",
@@ -5452,7 +5452,7 @@
   "2022/01/P1200446_sunlit_hills.JPG": {
     "SourceFile": "./2022/01/P1200446_sunlit_hills.JPG",
     "Title": "",
-    "Landmark": "",
+    "Landmark": "Teatro dei Calanchi",
     "DateTimeOriginal": "2022:01:05 16:19:12",
     "Location": "Calanchi di Pisticci, MT",
     "Make": "Panasonic",
@@ -5481,7 +5481,7 @@
   "2022/01/P1200453_castle.JPG": {
     "SourceFile": "./2022/01/P1200453_castle.JPG",
     "Title": "",
-    "Landmark": "",
+    "Landmark": "Castello di San Basilio (MT)",
     "DateTimeOriginal": "2022:01:05 16:24:29",
     "Location": "Calanchi di Pisticci, MT",
     "Make": "Panasonic",
@@ -6493,7 +6493,7 @@
   "2022/09/_1200668_sunrise5.JPG": {
     "SourceFile": "./2022/09/_1200668_sunrise5.JPG",
     "Title": "",
-    "Landmark": "",
+    "Landmark": "Dune di Campomarino",
     "DateTimeOriginal": "2022:09:26 06:31:47",
     "Location": "Campomarino, TA",
     "Make": "Panasonic",
@@ -6708,7 +6708,7 @@
   "2023/03/_1210544_light-dark2.JPG": {
     "SourceFile": "./2023/03/_1210544_light-dark2.JPG",
     "Title": "",
-    "Landmark": "",
+    "Landmark": "Molo di Villanova (BR)",
     "DateTimeOriginal": "2023:03:02 16:43:23",
     "Location": "Villanova, BR",
     "Make": "Panasonic",
@@ -6723,7 +6723,7 @@
   "2023/03/_1210543_incoming_clouds_3.JPG": {
     "SourceFile": "./2023/03/_1210543_incoming_clouds_3.JPG",
     "Title": "",
-    "Landmark": "",
+    "Landmark": "Molo di Villanova (BR)",
     "DateTimeOriginal": "2023:03:02 16:42:58",
     "Location": "Villanova, BR",
     "Make": "Panasonic",
@@ -7014,7 +7014,7 @@
   "2023/02/_1210465_morning_tower.JPG": {
     "SourceFile": "./2023/02/_1210465_morning_tower.JPG",
     "Title": "",
-    "Landmark": "",
+    "Landmark": "Torre di Villanova",
     "DateTimeOriginal": "2023:02:18 07:20:12",
     "Location": "Villanova, BR",
     "Make": "Panasonic",
@@ -7578,7 +7578,7 @@
   "2023/05/_1210700_lighthouse.JPG": {
     "SourceFile": "./2023/05/_1210700_lighthouse.JPG",
     "Title": "",
-    "Landmark": "",
+    "Landmark": "Faro di Villanova",
     "DateTimeOriginal": "2023:05:26 19:04:58",
     "Location": "Villanova, BR",
     "Make": "Panasonic",
@@ -7621,7 +7621,7 @@
   "2023/12/_1220945_unreal.JPG": {
     "SourceFile": "./2023/12/_1220945_unreal.JPG",
     "Title": "",
-    "Landmark": "",
+    "Landmark": "Viale Oronzo Quaranta",
     "DateTimeOriginal": "2023:12:24 12:18:20",
     "Location": "Ostuni (BR)",
     "Make": "Panasonic",
@@ -7941,7 +7941,7 @@
   "2023/08/_1220403_lighthouse.JPG": {
     "SourceFile": "./2023/08/_1220403_lighthouse.JPG",
     "Title": "",
-    "Landmark": "",
+    "Landmark": "Faro di Villanova",
     "DateTimeOriginal": "2023:08:31 20:03:41",
     "Location": "Villanova, BR",
     "Make": "Panasonic",
