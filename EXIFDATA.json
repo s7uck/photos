@@ -606,6 +606,42 @@
     "Rating": 4,
     "ExposureProgram": "Manual"
   },
+  "2026/08/IMG_20260826_193526544.jpg": {
+    "SourceFile": "./2026/08/IMG_20260826_193526544.jpg",
+    "DateTimeOriginal": "2026:08:26 19:35:26",
+    "Location": "Torre Borraco, TA",
+    "Make": "motorola",
+    "Model": "motorola edge 30 neo",
+    "Aperture": 1.7,
+    "ShutterSpeed": "1/45",
+    "ISO": 100,
+    "FocalLength": "4.7 mm",
+    "ExposureProgram": "Manual"
+  },
+  "2026/08/IMG_20260826_193515956.jpg": {
+    "SourceFile": "./2026/08/IMG_20260826_193515956.jpg",
+    "DateTimeOriginal": "2026:08:26 19:35:16",
+    "Location": "Torre Borraco, TA",
+    "Make": "motorola",
+    "Model": "motorola edge 30 neo",
+    "Aperture": 1.7,
+    "ShutterSpeed": "1/30",
+    "ISO": 100,
+    "FocalLength": "4.7 mm",
+    "ExposureProgram": "Manual"
+  },
+  "2026/08/IMG_20260826_193443910.jpg": {
+    "SourceFile": "./2026/08/IMG_20260826_193443910.jpg",
+    "DateTimeOriginal": "2026:08:26 19:34:45",
+    "Location": "Torre Borraco, TA",
+    "Make": "motorola",
+    "Model": "motorola edge 30 neo",
+    "Aperture": 1.7,
+    "ShutterSpeed": "1/120",
+    "ISO": 416,
+    "FocalLength": "4.7 mm",
+    "ExposureProgram": "Program AE"
+  },
   "2025/01/_1260681_bari.JPG": {
     "SourceFile": "./2025/01/_1260681_bari.JPG",
     "Title": "",
