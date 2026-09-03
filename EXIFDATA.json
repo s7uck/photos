@@ -630,6 +630,20 @@
     "FocalLength": "4.7 mm",
     "ExposureProgram": "Manual"
   },
+  "2026/08/P1310116.JPG": {
+    "SourceFile": "./2026/08/P1310116.JPG",
+    "Title": "",
+    "Landmark": "Incantevole Creamy",
+    "DateTimeOriginal": "2026:08:27 10:46:18",
+    "Location": "Centro Storico di Grottaglie, TA",
+    "Make": "Panasonic",
+    "Model": "DC-FZ82",
+    "Aperture": 8.0,
+    "ShutterSpeed": "1/800",
+    "ISO": 80,
+    "FocalLength": "6.2 mm",
+    "ExposureProgram": "Manual"
+  },
   "2026/08/IMG_20260826_193443910.jpg": {
     "SourceFile": "./2026/08/IMG_20260826_193443910.jpg",
     "DateTimeOriginal": "2026:08:26 19:34:45",
@@ -641,6 +655,20 @@
     "ISO": 416,
     "FocalLength": "4.7 mm",
     "ExposureProgram": "Program AE"
+  },
+  "2026/08/P1310117.JPG": {
+    "SourceFile": "./2026/08/P1310117.JPG",
+    "Title": "",
+    "Landmark": "Incantevole Creamy",
+    "DateTimeOriginal": "2026:08:27 10:46:59",
+    "Location": "Centro Storico di Grottaglie, TA",
+    "Make": "Panasonic",
+    "Model": "DC-FZ82",
+    "Aperture": 8.0,
+    "ShutterSpeed": "1/800",
+    "ISO": 320,
+    "FocalLength": "9.0 mm",
+    "ExposureProgram": "Manual"
   },
   "2025/01/_1260681_bari.JPG": {
     "SourceFile": "./2025/01/_1260681_bari.JPG",
@@ -699,20 +727,6 @@
     "ShutterSpeed": "1/640",
     "ISO": 80,
     "FocalLength": "9.0 mm",
-    "ExposureProgram": "Manual"
-  },
-  "2025/03/_1270005.JPG": {
-    "SourceFile": "./2025/03/_1270005.JPG",
-    "Title": "",
-    "Landmark": "",
-    "DateTimeOriginal": "2025:03:17 14:54:33",
-    "Location": "Specchiarica",
-    "Make": "Panasonic",
-    "Model": "DC-FZ82",
-    "Aperture": 6.3,
-    "ShutterSpeed": "1/320",
-    "ISO": 80,
-    "FocalLength": "6.2 mm",
     "ExposureProgram": "Manual"
   },
   "2025/03/_1260819_sea+bird.JPG": {
@@ -788,35 +802,6 @@
     "Rating": 4,
     "ExposureProgram": "Manual"
   },
-  "2025/03/_1260829.JPG": {
-    "SourceFile": "./2025/03/_1260829.JPG",
-    "Title": "",
-    "Landmark": "",
-    "DateTimeOriginal": "2025:03:17 11:35:34",
-    "Location": "",
-    "Make": "Panasonic",
-    "Model": "DC-FZ82",
-    "Aperture": 6.3,
-    "ShutterSpeed": "1/400",
-    "ISO": 80,
-    "FocalLength": "107.6 mm",
-    "ExposureProgram": "Manual"
-  },
-  "2025/03/P1270016_beach_entrance_2.JPG": {
-    "SourceFile": "./2025/03/P1270016_beach_entrance_2.JPG",
-    "Title": "",
-    "Landmark": "",
-    "DateTimeOriginal": "2025:03:17 15:03:27",
-    "Location": "San Pietro in Bevagna",
-    "Make": "Panasonic",
-    "Model": "DC-FZ82",
-    "Aperture": 5.6,
-    "ShutterSpeed": "1/800",
-    "ISO": 80,
-    "FocalLength": "6.2 mm",
-    "Rating": 5,
-    "ExposureProgram": "Manual"
-  },
   "2025/03/_1260785.JPG": {
     "SourceFile": "./2025/03/_1260785.JPG",
     "Title": "",
@@ -830,21 +815,6 @@
     "ISO": 400,
     "FocalLength": "3.6 mm",
     "ExposureProgram": "Program AE"
-  },
-  "2025/03/P1270019_beach_flora.JPG": {
-    "SourceFile": "./2025/03/P1270019_beach_flora.JPG",
-    "Title": "",
-    "Landmark": "",
-    "DateTimeOriginal": "2025:03:17 15:03:48",
-    "Location": "San Pietro in Bevagna",
-    "Make": "Panasonic",
-    "Model": "DC-FZ82",
-    "Aperture": 5.6,
-    "ShutterSpeed": "1/250",
-    "ISO": 80,
-    "FocalLength": "16.0 mm",
-    "Rating": 5,
-    "ExposureProgram": "Manual"
   },
   "2025/03/_1270030_seaside_field.JPG": {
     "SourceFile": "./2025/03/_1270030_seaside_field.JPG",
@@ -901,21 +871,6 @@
     "ShutterSpeed": "1/1300",
     "ISO": 80,
     "FocalLength": "12.5 mm",
-    "ExposureProgram": "Manual"
-  },
-  "2025/03/P1260826_sea_view.JPG": {
-    "SourceFile": "./2025/03/P1260826_sea_view.JPG",
-    "Title": "",
-    "Landmark": "",
-    "DateTimeOriginal": "2025:03:17 11:32:27",
-    "Location": "",
-    "Make": "Panasonic",
-    "Model": "DC-FZ82",
-    "Aperture": 8.0,
-    "ShutterSpeed": "1/200",
-    "ISO": 80,
-    "FocalLength": "12.5 mm",
-    "Rating": 4,
     "ExposureProgram": "Manual"
   },
   "2025/03/_1270037_seaside_field_2.JPG": {
