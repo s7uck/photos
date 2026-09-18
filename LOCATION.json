@@ -104,6 +104,10 @@
     "url": "https://www.openstreetmap.org/relation/40436",
     "coordinates": [40.404098, 16.540417]
   },
+  "Potenza": {
+    "url": "https://www.openstreetmap.org/node/67280322",
+    "coordinates": [40.638404, 15.802207]
+  },
   "Punta Alice, KR": {
     "url": "https://www.openstreetmap.org/node/85921611",
     "coordinates": [39.4006579, 17.1566292]
