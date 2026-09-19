@@ -692,6 +692,21 @@
     "FocalLength": "107.6 mm",
     "ExposureProgram": "Program AE"
   },
+  "2026/07/_1310089_sp73.JPG": {
+    "SourceFile": "./2026/07/_1310089_sp73.JPG",
+    "Title": "",
+    "Landmark": "",
+    "DateTimeOriginal": "2026:07:30 05:39:21",
+    "Location": "Grottaglie (TA)",
+    "Make": "Panasonic",
+    "Model": "DC-FZ82",
+    "Aperture": 8.0,
+    "ShutterSpeed": "1/20",
+    "ISO": 80,
+    "FocalLength": "12.5 mm",
+    "Rating": 5,
+    "ExposureProgram": "Manual"
+  },
   "2026/07/P1310062_the_sunset_horiz.JPG": {
     "SourceFile": "./2026/07/P1310062_the_sunset_horiz.JPG",
     "Title": "",
@@ -754,6 +769,21 @@
     "Model": "DC-FZ82",
     "ISO": 80,
     "FocalLength": "71.7 mm",
+    "Rating": 5,
+    "ExposureProgram": "Manual"
+  },
+  "2026/07/_1310077_montepizzuto.JPG": {
+    "SourceFile": "./2026/07/_1310077_montepizzuto.JPG",
+    "Title": "",
+    "Landmark": "",
+    "DateTimeOriginal": "2026:07:30 05:36:08",
+    "Location": "Montepizzuto (Grottaglie)",
+    "Make": "Panasonic",
+    "Model": "DC-FZ82",
+    "Aperture": 8.0,
+    "ShutterSpeed": "1/5",
+    "ISO": 80,
+    "FocalLength": "12.5 mm",
     "Rating": 5,
     "ExposureProgram": "Manual"
   },
@@ -940,6 +970,48 @@
     "ISO": 80,
     "FocalLength": "16.0 mm",
     "Rating": 4,
+    "ExposureProgram": "Program AE"
+  },
+  "2026/09/_1310123_peace.JPG": {
+    "SourceFile": "./2026/09/_1310123_peace.JPG",
+    "Title": "",
+    "Landmark": "",
+    "DateTimeOriginal": "2026:09:16 19:05:29",
+    "Location": "A1 Autostrada del Sole",
+    "Make": "Panasonic",
+    "Model": "DC-FZ82",
+    "Aperture": 4.3,
+    "ShutterSpeed": "1/125",
+    "ISO": 80,
+    "FocalLength": "12.5 mm",
+    "ExposureProgram": "Program AE"
+  },
+  "2026/09/_1310155_potenza.JPG": {
+    "SourceFile": "./2026/09/_1310155_potenza.JPG",
+    "Title": "",
+    "Landmark": "",
+    "DateTimeOriginal": "2026:09:17 18:35:01",
+    "Location": "Potenza Città",
+    "Make": "Panasonic",
+    "Model": "DC-FZ82",
+    "Aperture": 2.8,
+    "ShutterSpeed": "1/320",
+    "ISO": 80,
+    "FocalLength": "3.6 mm",
+    "ExposureProgram": "Program AE"
+  },
+  "2026/09/P1310133._latina_lido.JPG": {
+    "SourceFile": "./2026/09/P1310133._latina_lido.JPG",
+    "Title": "",
+    "Landmark": "",
+    "DateTimeOriginal": "2026:09:17 12:57:38",
+    "Location": "Latina Lido (LT)",
+    "Make": "Panasonic",
+    "Model": "DC-FZ82",
+    "Aperture": 8.0,
+    "ShutterSpeed": "1/800",
+    "ISO": 80,
+    "FocalLength": "16.0 mm",
     "ExposureProgram": "Program AE"
   },
   "2025/01/_1260681_bari.JPG": {
