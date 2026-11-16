@@ -489,7 +489,7 @@
   "2026/10/_1310217_acqua.JPG": {
     "SourceFile": "./2026/10/_1310217_acqua.JPG",
     "Title": "",
-    "Landmark": "Cattedrale Gran Madre di Dio",
+    "Landmark": "",
     "DateTimeOriginal": "2026:10:28 22:21:54",
     "Location": "Taranto",
     "Make": "Panasonic",
@@ -547,6 +547,8 @@
     "SourceFile": "./2026/11/_1310227_FINAL_01.jpg",
     "DateTimeOriginal": "2026:11:04 10:13:24.593",
     "Location": "Vietri di Potenza",
+    "Make": "Panasonic",
+    "Model": "DC-FZ82",
     "Rating": 4
   },
   "2026/06/P1300886.JPG": {
@@ -924,6 +926,8 @@
     "SourceFile": "./2026/07/_1310084_FINAL_01.jpg",
     "DateTimeOriginal": "2026:07:30 06:14:45.284",
     "Location": "Grottaglie (TA)",
+    "Make": "Panasonic",
+    "Model": "DC-FZ82",
     "Rating": 4
   },
   "2026/07/_1310066_the_sunset_half.JPG": {
